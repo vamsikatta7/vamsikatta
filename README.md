@@ -9,12 +9,12 @@ B Tech., Chemical Engineering @ NIT Nagpur, India
 
 ### Work Experience
 RELIANCE INDUSTRIES LIMITED- Mumbai, India
-Process Automation Engineer Feb 2022 – June 2022
+Process Automation Engineer                                                                                                               Feb 2022 – June 2022
 
 -  Simulated and optimized distillation column operations using ASPEN to achieve a 15% reduction in energy consumption
 -  Implemented APC Systems in refineries, achieving production consistency, and enabling reliable production planning
 
-Operations Manager July 2018 – Feb 2022
+Operations Manager                                                                                                                        July 2018 – Feb 2022
 -  Boosted revenue by $ 1M by eliminating bottlenecks to enhance throughput, resulting in increased production capacity
 -  Developed data-driven forecasting models to predict and improve product quality using data from the past decade
 -  Built plant turnaround schedules using MS Project to optimize resource allocation and reduce downtime by 5-10%
@@ -27,10 +27,10 @@ Operations Manager July 2018 – Feb 2022
 
 RUTGERS BUSINESS SCHOOL
 
-Research Assistant (Bettaway Pallet Systems) Jan 2024 – Current
+Research Assistant (Bettaway Pallet Systems)                                                                                               Jan 2024 – May 2024
 -  Leveraged Python to analyze Bettaway’s Pallet data, extracting correlations between pallet prices and economic indicators
 -  Identified economic trends such as LEI, CASS, and Housing Indices impacting pallet usage, for strategic decision-making.
 
-Industry Client Project (Mars Petcare) Jan 2024 – Current
+Industry Client Project (Mars Petcare)                                                                                                     Jan 2024 – May 2024
 -  Lead a team of 4 with diverse academic backgrounds to resolve Extruder downtime issues and recover $ 100k per extruder
 -  Performed Data wrangling & utilized ML algorithms to create models & optimize extruder parameters for predictive analysis
