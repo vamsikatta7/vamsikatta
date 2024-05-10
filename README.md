@@ -26,6 +26,7 @@ Operations Manager July 2018 – Feb 2022
 -  Conducted Root Cause Analysis for critical process failures and devised risk mitigation plans for high-risk processes
 
 RUTGERS BUSINESS SCHOOL
+
 Research Assistant (Bettaway Pallet Systems) Jan 2024 – Current
 -  Leveraged Python to analyze Bettaway’s Pallet data, extracting correlations between pallet prices and economic indicators
 -  Identified economic trends such as LEI, CASS, and Housing Indices impacting pallet usage, for strategic decision-making.
