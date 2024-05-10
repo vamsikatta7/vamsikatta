@@ -9,11 +9,13 @@ B Tech., Chemical Engineering @ NIT Nagpur, India
 
 ### Work Experience
 Mars Inc., New Jersey, USA (Jan 2024 – May 2024)
+
 Operations Analyst
 -  Lead a team of 4 with diverse academic backgrounds to resolve Extruder downtime issues and recover $ 100k per extruder
 -  Performed Data wrangling & utilized Machine Learning algorithms to create models & optimize extruder parameters for predictive analysis
 
 Bettaway Pallet Systems, New Jersey, USA (Jan 2024 – May 2024)
+
 Logistics Analyst
 -  Leveraged Python to analyze Bettaway’s Pallet data, extracting correlations between pallet prices and economic indicators
 -  Identified economic trends such as LEI, CASS, and Housing Indices impacting pallet usage, for strategic decision-making.
