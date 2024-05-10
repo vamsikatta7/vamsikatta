@@ -1,11 +1,9 @@
 # Suppy Chain Analyst
 
 ### Education
-MS in Supply Chain Analytics || Rutgers Business School, New Jersey, USA
-
-MBA in Supply Chain Management || XLRI, Jamshedpur, India
-
-B Tech., Chemical Engineering || NIT Nagpur, India 
+-  MS in Supply Chain Analytics || Rutgers Business School, New Jersey, USA
+-  MBA in Supply Chain Management || XLRI, Jamshedpur, India
+-  B Tech., Chemical Engineering || NIT Nagpur, India 
 
 ### Work Experience
 **Mars Inc., New Jersey, USA (Jan 2024 – May 2024)**
