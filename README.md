@@ -1,33 +1,33 @@
 # Suppy Chain Analyst
 
 ### Education
-MS in Supply Chain Analytics @ Rutgers Business School, New Jersey, USA
+MS in Supply Chain Analytics || Rutgers Business School, New Jersey, USA
 
-MBA in Supply Chain Management @ XLRI, Jamshedpur, India
+MBA in Supply Chain Management || XLRI, Jamshedpur, India
 
-B Tech., Chemical Engineering @ NIT Nagpur, India 
+B Tech., Chemical Engineering || NIT Nagpur, India 
 
 ### Work Experience
-Mars Inc., New Jersey, USA (Jan 2024 – May 2024)
+**Mars Inc., New Jersey, USA (Jan 2024 – May 2024)**
 
-Operations Analyst
+*Operations Analyst*
 -  Lead a team of 4 with diverse academic backgrounds to resolve Extruder downtime issues and recover $ 100k per extruder
 -  Performed Data wrangling & utilized Machine Learning algorithms to create models & optimize extruder parameters for predictive analysis
 
-Bettaway Pallet Systems, New Jersey, USA (Jan 2024 – May 2024)
+**Bettaway Pallet Systems, New Jersey, USA (Jan 2024 – May 2024)**
 
-Logistics Analyst
+*Logistics Analyst*
 -  Leveraged Python to analyze Bettaway’s Pallet data, extracting correlations between pallet prices and economic indicators
 -  Identified economic trends such as LEI, CASS, and Housing Indices impacting pallet usage, for strategic decision-making.
 -  Used Machine Learning Models to predict the best price range for a profitable business
 
-RELIANCE INDUSTRIES LIMITED- Mumbai, India
+**RELIANCE INDUSTRIES LIMITED- Mumbai, India**
 
-Process Automation Engineer (Feb 2022 – June 2022)
+*Process Automation Engineer* (Feb 2022 – June 2022)
 -  Simulated and optimized distillation column operations using ASPEN to achieve a 15% reduction in energy consumption
 -  Implemented APC Systems in refineries, achieving production consistency, and enabling reliable production planning
 
-Operations Manager (July 2018 – Feb 2022)                                                                                                                     
+*Operations Manager* (July 2018 – Feb 2022)                                                                                                                     
 -  Boosted revenue by $ 1M by eliminating bottlenecks to enhance throughput, resulting in increased production capacity
 -  Developed data-driven forecasting models to predict and improve product quality using data from the past decade
 -  Built plant turnaround schedules using MS Project to optimize resource allocation and reduce downtime by 5-10%
