@@ -1,9 +1,10 @@
 # Suppy Chain Analyst
+#### Skills and Specialization: Supply Chain Planning, SAP, Six Sigma, Python, SQL, Tableau, Power BI, Advance Excel, MS Project
 
 ### Education
--  MS in Supply Chain Analytics || Rutgers Business School, New Jersey, USA
--  MBA in Supply Chain Management || XLRI, Jamshedpur, India
--  B Tech., Chemical Engineering || NIT Nagpur, India 
+-  MS in Supply Chain Analytics | Rutgers Business School, New Jersey, USA
+-  MBA in Supply Chain Management | XLRI, Jamshedpur, India
+-  B Tech., Chemical Engineering | NIT Nagpur, India 
 
 ### Work Experience
 **Mars Inc., New Jersey, USA (Jan 2024 – May 2024)**
