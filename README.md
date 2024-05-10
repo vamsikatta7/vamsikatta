@@ -1,4 +1,4 @@
-# Suppy Chain
+# Suppy Chain Analyst
 
 ### Education
 MS in Supply Chain Analytics @ Rutgers Business School, New Jersey, USA
