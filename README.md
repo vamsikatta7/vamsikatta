@@ -2,9 +2,7 @@
 
 ### Education
 MS in Supply Chain Analytics || Rutgers Business School, New Jersey, USA
-
 MBA in Supply Chain Management || XLRI, Jamshedpur, India
-
 B Tech., Chemical Engineering || NIT Nagpur, India 
 
 ### Work Experience
