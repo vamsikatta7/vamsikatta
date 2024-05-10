@@ -22,6 +22,7 @@ Logistics Analyst
 -  Used Machine Learning Models to predict the best price range for a profitable business
 
 RELIANCE INDUSTRIES LIMITED- Mumbai, India
+
 Process Automation Engineer (Feb 2022 – June 2022)
 -  Simulated and optimized distillation column operations using ASPEN to achieve a 15% reduction in energy consumption
 -  Implemented APC Systems in refineries, achieving production consistency, and enabling reliable production planning
