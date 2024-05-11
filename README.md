@@ -37,5 +37,14 @@
 -  Collaborated with cross-functional teams in transitioning from preventive maintenance to predictive maintenance
 -  Conducted Root Cause Analysis for critical process failures and devised risk mitigation plans for high-risk processes
 
+### Projects
+
+-  Inventory Management in a Blood bank using Excel and Python
+-  Predicting the probability of bankruptcy by analyzing the financial parameters using R Programming
+-  Analysis of the impact of Uber and Lyft along with COVID-19 on the profitability of New York's Taxi Business
+-  Analyzing and comparing countries based on different parameters like Education, Economy and Investments using Tableau  
+
+
+
 
 
