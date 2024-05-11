@@ -1,4 +1,4 @@
-# Suppy Chain Analyst
+# Supply Chain Analyst
 #### Skills and Specialization: Supply Chain Planning, SAP, Six Sigma, Python, SQL, Tableau, Power BI, Advance Excel, MS Project
 
 ### Education
