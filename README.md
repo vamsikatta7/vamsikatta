@@ -40,7 +40,7 @@
 ### Projects
 
 -  **MS Excel & Python:** Inventory Management in a Blood bank using Excel and Python **[Publication](https://docs.google.com/presentation/d/1cWy8qfW53sS9bu0i0ueCMSC-6DcVDSOL/edit?usp=sharing&ouid=109403189701424090583&rtpof=true&sd=true)**
--  **R PRogramming:** Predicting the probability of bankruptcy by analyzing the financial parameters using R Programming **[Publication](https://drive.google.com/file/d/1oYd-SLRXMV3phzyoDPSpn9Up0EPerhJt/view?usp=sharing)**
+-  **R Programming:** Predicting the probability of bankruptcy by analyzing the financial parameters using R Programming **[Publication](https://drive.google.com/file/d/1oYd-SLRXMV3phzyoDPSpn9Up0EPerhJt/view?usp=sharing)**
 -  **Python:** Analysis of the impact of Uber and Lyft along with COVID-19 on the profitability of New York's Taxi Business using Python
    **[Publication](https://docs.google.com/presentation/d/1iehAjTRwpxGLf0VOJ_FMz-KWTcpFLj-M/edit?usp=sharing&ouid=109403189701424090583&rtpof=true&sd=true)**
 -  **Tableau:** Analyzing and comparing countries based on different parameters like Education, Economy, and Social Protection using Tableau **[Publication](https://drive.google.com/file/d/1CmnmNsygzuOA7h-vP8wjf3TVxymdLK_l/view?usp=sharing)**
